@@ -1,0 +1,1145 @@
+[
+    {
+        "id": 1,
+        "last_updated": "2024-12-05",
+        "name": "ไก่",
+        "quantity": 50.0,
+        "reorder_level": 20.0,
+        "supplier_id": 1,
+        "unit": "กิโลกรัม"
+    },
+    {
+        "id": 2,
+        "last_updated": "2024-12-05",
+        "name": "หมู",
+        "quantity": 40.0,
+        "reorder_level": 15.0,
+        "supplier_id": 1,
+        "unit": "กิโลกรัม"
+    },
+    {
+        "id": 3,
+        "last_updated": "2024-12-05",
+        "name": "กุ้ง",
+        "quantity": 20.0,
+        "reorder_level": 10.0,
+        "supplier_id": 2,
+        "unit": "กิโลกรัม"
+    },
+    {
+        "id": 4,
+        "last_updated": "2024-12-05",
+        "name": "ปู",
+        "quantity": 10.0,
+        "reorder_level": 5.0,
+        "supplier_id": 2,
+        "unit": "กิโลกรัม"
+    },
+    {
+        "id": 5,
+        "last_updated": "2024-12-05",
+        "name": "หมูปิ้ง",
+        "quantity": 1000.0,
+        "reorder_level": 150.0,
+        "supplier_id": 1,
+        "unit": "ชิ้น"
+    },
+    {
+        "id": 6,
+        "last_updated": "2024-12-05",
+        "name": "ปลากราย",
+        "quantity": 15.0,
+        "reorder_level": 5.0,
+        "supplier_id": 2,
+        "unit": "กิโลกรัม"
+    },
+    {
+        "id": 7,
+        "last_updated": "2024-12-05",
+        "name": "เกลือ",
+        "quantity": 20.0,
+        "reorder_level": 8.0,
+        "supplier_id": 3,
+        "unit": "กิโลกรัม"
+    },
+    {
+        "id": 8,
+        "last_updated": "2024-12-05",
+        "name": "น้ำปลา",
+        "quantity": 10.0,
+        "reorder_level": 5.0,
+        "supplier_id": 3,
+        "unit": "ลิตร"
+    },
+    {
+        "id": 9,
+        "last_updated": "2024-12-05",
+        "name": "น้ำตาลทราย",
+        "quantity": 20.0,
+        "reorder_level": 8.0,
+        "supplier_id": 3,
+        "unit": "กิโลกรัม"
+    },
+    {
+        "id": 10,
+        "last_updated": "2024-12-05",
+        "name": "ซีอิ๊วดำ",
+        "quantity": 5.0,
+        "reorder_level": 3.0,
+        "supplier_id": 3,
+        "unit": "ลิตร"
+    },
+    {
+        "id": 11,
+        "last_updated": "2024-12-05",
+        "name": "ซีอิ๊วขาว",
+        "quantity": 10.0,
+        "reorder_level": 5.0,
+        "supplier_id": 3,
+        "unit": "ลิตร"
+    },
+    {
+        "id": 12,
+        "last_updated": "2024-12-05",
+        "name": "พริกไทย",
+        "quantity": 20.0,
+        "reorder_level": 8.0,
+        "supplier_id": 3,
+        "unit": "กิโลกรัม"
+    },
+    {
+        "id": 13,
+        "last_updated": "2024-12-05",
+        "name": "ผงชูรส",
+        "quantity": 10.0,
+        "reorder_level": 2.0,
+        "supplier_id": 3,
+        "unit": "กิโลกรัม"
+    },
+    {
+        "id": 14,
+        "last_updated": "2024-12-05",
+        "name": "ผงสะเต๊ะ",
+        "quantity": 5.0,
+        "reorder_level": 2.0,
+        "supplier_id": 3,
+        "unit": "กิโลกรัม"
+    },
+    {
+        "id": 15,
+        "last_updated": "2024-12-05",
+        "name": "ใบกะเพรา",
+        "quantity": 5.0,
+        "reorder_level": 2.0,
+        "supplier_id": 4,
+        "unit": "กิโลกรัม"
+    },
+    {
+        "id": 16,
+        "last_updated": "2024-12-05",
+        "name": "ใบมะกรูด",
+        "quantity": 5.0,
+        "reorder_level": 2.0,
+        "supplier_id": 4,
+        "unit": "กิโลกรัม"
+    },
+    {
+        "id": 17,
+        "last_updated": "2024-12-05",
+        "name": "ต้นหอม",
+        "quantity": 5.0,
+        "reorder_level": 2.0,
+        "supplier_id": 4,
+        "unit": "กิโลกรัม"
+    },
+    {
+        "id": 18,
+        "last_updated": "2024-12-05",
+        "name": "ผักชี",
+        "quantity": 5.0,
+        "reorder_level": 2.0,
+        "supplier_id": 4,
+        "unit": "กิโลกรัม"
+    },
+    {
+        "id": 19,
+        "last_updated": "2024-12-05",
+        "name": "มะนาว",
+        "quantity": 10.0,
+        "reorder_level": 3.0,
+        "supplier_id": 4,
+        "unit": "กิโลกรัม"
+    },
+    {
+        "id": 20,
+        "last_updated": "2024-12-05",
+        "name": "พริกป่น",
+        "quantity": 3.0,
+        "reorder_level": 1.0,
+        "supplier_id": 4,
+        "unit": "กิโลกรัม"
+    },
+    {
+        "id": 21,
+        "last_updated": "2024-12-05",
+        "name": "มะม่วงสุก",
+        "quantity": 100.0,
+        "reorder_level": 10.0,
+        "supplier_id": 4,
+        "unit": "ลูก"
+    },
+    {
+        "id": 22,
+        "last_updated": "2024-12-05",
+        "name": "ขิง",
+        "quantity": 10.0,
+        "reorder_level": 5.0,
+        "supplier_id": 4,
+        "unit": "กิโลกรัม"
+    },
+    {
+        "id": 23,
+        "last_updated": "2024-12-05",
+        "name": "ข่า",
+        "quantity": 10.0,
+        "reorder_level": 5.0,
+        "supplier_id": 4,
+        "unit": "กิโลกรัม"
+    },
+    {
+        "id": 24,
+        "last_updated": "2024-12-05",
+        "name": "ตะไคร้",
+        "quantity": 10.0,
+        "reorder_level": 5.0,
+        "supplier_id": 4,
+        "unit": "กิโลกรัม"
+    },
+    {
+        "id": 25,
+        "last_updated": "2024-12-05",
+        "name": "พริกขี้หนู",
+        "quantity": 10.0,
+        "reorder_level": 5.0,
+        "supplier_id": 4,
+        "unit": "กิโลกรัม"
+    },
+    {
+        "id": 26,
+        "last_updated": "2024-12-05",
+        "name": "กระเทียม",
+        "quantity": 10.0,
+        "reorder_level": 5.0,
+        "supplier_id": 4,
+        "unit": "กิโลกรัม"
+    },
+    {
+        "id": 27,
+        "last_updated": "2024-12-05",
+        "name": "หอมแดง",
+        "quantity": 10.0,
+        "reorder_level": 5.0,
+        "supplier_id": 4,
+        "unit": "กิโลกรัม"
+    },
+    {
+        "id": 28,
+        "last_updated": "2024-12-05",
+        "name": "ข้าวสาร",
+        "quantity": 100.0,
+        "reorder_level": 50.0,
+        "supplier_id": 1,
+        "unit": "กิโลกรัม"
+    },
+    {
+        "id": 29,
+        "last_updated": "2024-12-05",
+        "name": "ข้าวเหนียว",
+        "quantity": 50.0,
+        "reorder_level": 30.0,
+        "supplier_id": 1,
+        "unit": "กิโลกรัม"
+    },
+    {
+        "id": 30,
+        "last_updated": "2024-12-05",
+        "name": "แป้งข้าวเจ้า",
+        "quantity": 20.0,
+        "reorder_level": 10.0,
+        "supplier_id": 1,
+        "unit": "กิโลกรัม"
+    },
+    {
+        "id": 31,
+        "last_updated": "2024-12-05",
+        "name": "เส้นก๋วยเตี๋ยว",
+        "quantity": 15.0,
+        "reorder_level": 5.0,
+        "supplier_id": 1,
+        "unit": "กิโลกรัม"
+    },
+    {
+        "id": 32,
+        "last_updated": "2024-12-05",
+        "name": "เส้นจันท์",
+        "quantity": 20.0,
+        "reorder_level": 5.0,
+        "supplier_id": 1,
+        "unit": "กิโลกรัม"
+    },
+    {
+        "id": 33,
+        "last_updated": "2024-12-05",
+        "name": "เส้นหมี่",
+        "quantity": 20.0,
+        "reorder_level": 5.0,
+        "supplier_id": 1,
+        "unit": "กิโลกรัม"
+    },
+    {
+        "id": 34,
+        "last_updated": "2024-12-05",
+        "name": "เส้นใหญ่",
+        "quantity": 20.0,
+        "reorder_level": 5.0,
+        "supplier_id": 1,
+        "unit": "กิโลกรัม"
+    },
+    {
+        "id": 35,
+        "last_updated": "2024-12-05",
+        "name": "ผงชาเย็น",
+        "quantity": 10.0,
+        "reorder_level": 3.0,
+        "supplier_id": 5,
+        "unit": "กิโลกรัม"
+    },
+    {
+        "id": 36,
+        "last_updated": "2024-12-05",
+        "name": "ผงกาแฟ",
+        "quantity": 10.0,
+        "reorder_level": 3.0,
+        "supplier_id": 5,
+        "unit": "กิโลกรัม"
+    },
+    {
+        "id": 37,
+        "last_updated": "2024-12-05",
+        "name": "ผงโอเลี้ยง",
+        "quantity": 5.0,
+        "reorder_level": 2.0,
+        "supplier_id": 5,
+        "unit": "กิโลกรัม"
+    },
+    {
+        "id": 38,
+        "last_updated": "2024-12-05",
+        "name": "ผงโกโก้",
+        "quantity": 5.0,
+        "reorder_level": 2.0,
+        "supplier_id": 5,
+        "unit": "กิโลกรัม"
+    },
+    {
+        "id": 39,
+        "last_updated": "2024-12-05",
+        "name": "น้ำมะพร้าว",
+        "quantity": 20.0,
+        "reorder_level": 10.0,
+        "supplier_id": 2,
+        "unit": "ลิตร"
+    },
+    {
+        "id": 40,
+        "last_updated": "2024-12-05",
+        "name": "น้ำใบเตย",
+        "quantity": 20.0,
+        "reorder_level": 2.0,
+        "supplier_id": 5,
+        "unit": "ลิตร"
+    },
+    {
+        "id": 41,
+        "last_updated": "2024-12-05",
+        "name": "น้ำส้ม",
+        "quantity": 20.0,
+        "reorder_level": 7.0,
+        "supplier_id": 5,
+        "unit": "ลิตร"
+    },
+    {
+        "id": 42,
+        "last_updated": "2024-12-05",
+        "name": "ชานมไข่มุก",
+        "quantity": 10.0,
+        "reorder_level": 3.0,
+        "supplier_id": 5,
+        "unit": "กิโลกรัม"
+    },
+    {
+        "id": 43,
+        "last_updated": "2024-12-05",
+        "name": "นมสด",
+        "quantity": 20.0,
+        "reorder_level": 7.0,
+        "supplier_id": 5,
+        "unit": "ลิตร"
+    },
+    {
+        "id": 44,
+        "last_updated": "2024-12-05",
+        "name": "ขนมถ้วยสำเร็จ",
+        "quantity": 50.0,
+        "reorder_level": 20.0,
+        "supplier_id": 6,
+        "unit": "ชุด"
+    },
+    {
+        "id": 45,
+        "last_updated": "2024-12-05",
+        "name": "ทับทิมกรอบ",
+        "quantity": 5.0,
+        "reorder_level": 3.0,
+        "supplier_id": 6,
+        "unit": "กิโลกรัม"
+    },
+    {
+        "id": 46,
+        "last_updated": "2024-12-05",
+        "name": "สาคู",
+        "quantity": 10.0,
+        "reorder_level": 5.0,
+        "supplier_id": 6,
+        "unit": "กิโลกรัม"
+    },
+    {
+        "id": 47,
+        "last_updated": "2024-12-05",
+        "name": "กะทิ",
+        "quantity": 20.0,
+        "reorder_level": 8.0,
+        "supplier_id": 2,
+        "unit": "ลิตร"
+    },
+    {
+        "id": 48,
+        "last_updated": "2024-12-05",
+        "name": "บัวลอยไข่หวาน",
+        "quantity": 20.0,
+        "reorder_level": 10.0,
+        "supplier_id": 6,
+        "unit": "ชุด"
+    },
+    {
+        "id": 49,
+        "last_updated": "2024-12-05",
+        "name": "ลอดช่องน้ำกะทิ",
+        "quantity": 20.0,
+        "reorder_level": 10.0,
+        "supplier_id": 6,
+        "unit": "ชุด"
+    },
+    {
+        "id": 50,
+        "last_updated": "2024-12-05",
+        "name": "เฉาก๊วยนมสด",
+        "quantity": 20.0,
+        "reorder_level": 10.0,
+        "supplier_id": 6,
+        "unit": "ชุด"
+    },
+    {
+        "id": 51,
+        "last_updated": "2024-12-05",
+        "name": "ซ่าหริ่ม",
+        "quantity": 20.0,
+        "reorder_level": 10.0,
+        "supplier_id": 6,
+        "unit": "ชุด"
+    },
+    {
+        "id": 52,
+        "last_updated": "2024-12-05",
+        "name": "ผลไม้",
+        "quantity": 100.0,
+        "reorder_level": 5.0,
+        "supplier_id": 4,
+        "unit": "กิโลกรัม"
+    },
+    {
+        "id": 53,
+        "last_updated": "2024-12-05",
+        "name": "ลูกชิ้นหมู",
+        "quantity": 1000.0,
+        "reorder_level": 500.0,
+        "supplier_id": 2,
+        "unit": "ชิ้น"
+    },
+    {
+        "id": 54,
+        "last_updated": "2024-12-05",
+        "name": "ปอเปี๊ยะทอด",
+        "quantity": 1000.0,
+        "reorder_level": 500.0,
+        "supplier_id": 2,
+        "unit": "ชิ้น"
+    },
+    {
+        "id": 55,
+        "last_updated": "2024-12-05",
+        "name": "เกี๊ยวทอด",
+        "quantity": 500.0,
+        "reorder_level": 250.0,
+        "supplier_id": 2,
+        "unit": "ชิ้น"
+    },
+    {
+        "id": 56,
+        "last_updated": "2024-12-05",
+        "name": "ปีกไก่",
+        "quantity": 200.0,
+        "reorder_level": 50.0,
+        "supplier_id": 1,
+        "unit": "ชิ้น"
+    },
+    {
+        "id": 57,
+        "last_updated": "2024-12-05",
+        "name": "ไข่",
+        "quantity": 100.0,
+        "reorder_level": 25.0,
+        "supplier_id": 2,
+        "unit": "แผง"
+    },
+    {
+        "id": 58,
+        "last_updated": "2024-12-05",
+        "name": "พริกแกงสำเร็จรูป",
+        "quantity": 100.0,
+        "reorder_level": 25.0,
+        "supplier_id": 4,
+        "unit": "ถุง"
+    },
+    {
+        "id": 59,
+        "last_updated": "2024-12-05",
+        "name": "น้ำมันพืช",
+        "quantity": 100.0,
+        "reorder_level": 25.0,
+        "supplier_id": 4,
+        "unit": "ลัง"
+    },
+    {
+        "id": 60,
+        "last_updated": "2024-12-05",
+        "name": "หมูยอ",
+        "quantity": 100.0,
+        "reorder_level": 5.0,
+        "supplier_id": 1,
+        "unit": "ห่อ"
+    },
+    {
+        "id": 61,
+        "last_updated": "2024-12-05",
+        "name": "ข้าวคั่ว",
+        "quantity": 10.0,
+        "reorder_level": 2.0,
+        "supplier_id": 3,
+        "unit": "กิโลกรัม"
+    },
+    {
+        "id": 62,
+        "last_updated": "2024-12-05",
+        "name": "แป้งชุบทอด",
+        "quantity": 50.0,
+        "reorder_level": 5.0,
+        "supplier_id": 4,
+        "unit": "ลัง"
+    },
+    {
+        "id": 63,
+        "last_updated": "2024-12-05",
+        "name": "มะละกอ",
+        "quantity": 10.0,
+        "reorder_level": 2.0,
+        "supplier_id": 1,
+        "unit": "กิโลกรัม"
+    },
+    {
+        "id": 64,
+        "last_updated": "2024-12-05",
+        "name": "น้ำปลาร้า",
+        "quantity": 25.0,
+        "reorder_level": 4.0,
+        "supplier_id": 4,
+        "unit": "ลัง"
+    },
+    {
+        "id": 65,
+        "last_updated": "2024-12-05",
+        "name": "ผงกะหรี่",
+        "quantity": 50.0,
+        "reorder_level": 5.0,
+        "supplier_id": 4,
+        "unit": "ถุง"
+    },
+    {
+        "id": 66,
+        "last_updated": "2024-12-05",
+        "name": "ถั่วดำ",
+        "quantity": 100.0,
+        "reorder_level": 5.0,
+        "supplier_id": 5,
+        "unit": "ถุง"
+    },
+    {
+        "id": 67,
+        "last_updated": "2024-12-05",
+        "name": "ไก่",
+        "quantity": 50.0,
+        "reorder_level": 5.0,
+        "supplier_id": 6,
+        "unit": "กิโลกรัม"
+    },
+    {
+        "id": 68,
+        "last_updated": "2024-12-05",
+        "name": "ปีกไก่",
+        "quantity": 10.0,
+        "reorder_level": 2.0,
+        "supplier_id": 6,
+        "unit": "กิโลกรัม"
+    },
+    {
+        "id": 69,
+        "last_updated": "2024-12-05",
+        "name": "หมู",
+        "quantity": 40.0,
+        "reorder_level": 5.0,
+        "supplier_id": 6,
+        "unit": "กิโลกรัม"
+    },
+    {
+        "id": 70,
+        "last_updated": "2024-12-05",
+        "name": "มันหมู",
+        "quantity": 20.0,
+        "reorder_level": 5.0,
+        "supplier_id": 6,
+        "unit": "กิโลกรัม"
+    },
+    {
+        "id": 71,
+        "last_updated": "2024-12-05",
+        "name": "กุ้ง",
+        "quantity": 20.0,
+        "reorder_level": 5.0,
+        "supplier_id": 3,
+        "unit": "กิโลกรัม"
+    },
+    {
+        "id": 72,
+        "last_updated": "2024-12-05",
+        "name": "ปู",
+        "quantity": 10.0,
+        "reorder_level": 3.0,
+        "supplier_id": 3,
+        "unit": "กิโลกรัม"
+    },
+    {
+        "id": 73,
+        "last_updated": "2024-12-05",
+        "name": "เกลือ",
+        "quantity": 300.0,
+        "reorder_level": 20.0,
+        "supplier_id": 4,
+        "unit": "ถุง"
+    },
+    {
+        "id": 74,
+        "last_updated": "2024-12-05",
+        "name": "น้ำปลา",
+        "quantity": 20.0,
+        "reorder_level": 2.0,
+        "supplier_id": 4,
+        "unit": "ลัง"
+    },
+    {
+        "id": 75,
+        "last_updated": "2024-12-05",
+        "name": "น้ำตาลทราย",
+        "quantity": 20.0,
+        "reorder_level": 2.0,
+        "supplier_id": 4,
+        "unit": "ลัง"
+    },
+    {
+        "id": 76,
+        "last_updated": "2024-12-05",
+        "name": "น้ำตาลปี๊บ",
+        "quantity": 20.0,
+        "reorder_level": 2.0,
+        "supplier_id": 4,
+        "unit": "ลัง"
+    },
+    {
+        "id": 77,
+        "last_updated": "2024-12-05",
+        "name": "ซีอิ๊วดำ",
+        "quantity": 20.0,
+        "reorder_level": 2.0,
+        "supplier_id": 4,
+        "unit": "ลัง"
+    },
+    {
+        "id": 78,
+        "last_updated": "2024-12-05",
+        "name": "ซีอิ๊วขาว",
+        "quantity": 20.0,
+        "reorder_level": 2.0,
+        "supplier_id": 4,
+        "unit": "ลัง"
+    },
+    {
+        "id": 79,
+        "last_updated": "2024-12-05",
+        "name": "น้ำส้มสายชู",
+        "quantity": 20.0,
+        "reorder_level": 2.0,
+        "supplier_id": 4,
+        "unit": "ลัง"
+    },
+    {
+        "id": 80,
+        "last_updated": "2024-12-05",
+        "name": "ซอสหอยนางรม",
+        "quantity": 20.0,
+        "reorder_level": 2.0,
+        "supplier_id": 4,
+        "unit": "ลัง"
+    },
+    {
+        "id": 81,
+        "last_updated": "2024-12-05",
+        "name": "เต้าเจี้ยว",
+        "quantity": 10.0,
+        "reorder_level": 1.0,
+        "supplier_id": 4,
+        "unit": "ลัง"
+    },
+    {
+        "id": 82,
+        "last_updated": "2024-12-05",
+        "name": "น้ำมันพืช",
+        "quantity": 20.0,
+        "reorder_level": 2.0,
+        "supplier_id": 4,
+        "unit": "ลัง"
+    },
+    {
+        "id": 83,
+        "last_updated": "2024-12-05",
+        "name": "น้ำจิ้มไก่",
+        "quantity": 10.0,
+        "reorder_level": 2.0,
+        "supplier_id": 4,
+        "unit": "ลัง"
+    },
+    {
+        "id": 84,
+        "last_updated": "2024-12-05",
+        "name": "พริกไทย",
+        "quantity": 100.0,
+        "reorder_level": 10.0,
+        "supplier_id": 4,
+        "unit": "ขวด"
+    },
+    {
+        "id": 85,
+        "last_updated": "2024-12-05",
+        "name": "ผงชูรส",
+        "quantity": 10.0,
+        "reorder_level": 2.0,
+        "supplier_id": 4,
+        "unit": "ลัง"
+    },
+    {
+        "id": 86,
+        "last_updated": "2024-12-05",
+        "name": "แป้งอเนกประสงค์",
+        "quantity": 10.0,
+        "reorder_level": 2.0,
+        "supplier_id": 4,
+        "unit": "ลัง"
+    },
+    {
+        "id": 87,
+        "last_updated": "2024-12-05",
+        "name": "น้ำพริกเผา",
+        "quantity": 5.0,
+        "reorder_level": 1.0,
+        "supplier_id": 4,
+        "unit": "ลัง"
+    },
+    {
+        "id": 88,
+        "last_updated": "2024-12-05",
+        "name": "ผงปรุงรสหมูแดง",
+        "quantity": 10.0,
+        "reorder_level": 2.0,
+        "supplier_id": 4,
+        "unit": "ลัง"
+    },
+    {
+        "id": 89,
+        "last_updated": "2024-12-05",
+        "name": "ใบกะเพรา",
+        "quantity": 5.0,
+        "reorder_level": 1.0,
+        "supplier_id": 2,
+        "unit": "กิโลกรัม"
+    },
+    {
+        "id": 90,
+        "last_updated": "2024-12-05",
+        "name": "ใบมะกรูด",
+        "quantity": 5.0,
+        "reorder_level": 1.0,
+        "supplier_id": 2,
+        "unit": "กิโลกรัม"
+    },
+    {
+        "id": 91,
+        "last_updated": "2024-12-05",
+        "name": "ต้นหอม",
+        "quantity": 5.0,
+        "reorder_level": 1.0,
+        "supplier_id": 2,
+        "unit": "กิโลกรัม"
+    },
+    {
+        "id": 92,
+        "last_updated": "2024-12-05",
+        "name": "ผักชี",
+        "quantity": 5.0,
+        "reorder_level": 1.0,
+        "supplier_id": 2,
+        "unit": "กิโลกรัม"
+    },
+    {
+        "id": 93,
+        "last_updated": "2024-12-05",
+        "name": "คะน้า",
+        "quantity": 5.0,
+        "reorder_level": 1.0,
+        "supplier_id": 2,
+        "unit": "กิโลกรัม"
+    },
+    {
+        "id": 94,
+        "last_updated": "2024-12-05",
+        "name": "ขึ้นฉ่าย",
+        "quantity": 5.0,
+        "reorder_level": 1.0,
+        "supplier_id": 2,
+        "unit": "กิโลกรัม"
+    },
+    {
+        "id": 95,
+        "last_updated": "2024-12-05",
+        "name": "มะนาว",
+        "quantity": 10.0,
+        "reorder_level": 2.0,
+        "supplier_id": 2,
+        "unit": "กิโลกรัม"
+    },
+    {
+        "id": 96,
+        "last_updated": "2024-12-05",
+        "name": "มะเขือเทศ",
+        "quantity": 10.0,
+        "reorder_level": 2.0,
+        "supplier_id": 2,
+        "unit": "กิโลกรัม"
+    },
+    {
+        "id": 97,
+        "last_updated": "2024-12-05",
+        "name": "พริกป่น",
+        "quantity": 3.0,
+        "reorder_level": 1.0,
+        "supplier_id": 2,
+        "unit": "กิโลกรัม"
+    },
+    {
+        "id": 98,
+        "last_updated": "2024-12-05",
+        "name": "ขิง",
+        "quantity": 10.0,
+        "reorder_level": 2.0,
+        "supplier_id": 2,
+        "unit": "กิโลกรัม"
+    },
+    {
+        "id": 99,
+        "last_updated": "2024-12-05",
+        "name": "ข่า",
+        "quantity": 10.0,
+        "reorder_level": 2.0,
+        "supplier_id": 2,
+        "unit": "กิโลกรัม"
+    },
+    {
+        "id": 100,
+        "last_updated": "2024-12-05",
+        "name": "ตะไคร้",
+        "quantity": 10.0,
+        "reorder_level": 2.0,
+        "supplier_id": 2,
+        "unit": "กิโลกรัม"
+    },
+    {
+        "id": 101,
+        "last_updated": "2024-12-05",
+        "name": "พริกขี้หนู",
+        "quantity": 10.0,
+        "reorder_level": 2.0,
+        "supplier_id": 2,
+        "unit": "กิโลกรัม"
+    },
+    {
+        "id": 102,
+        "last_updated": "2024-12-05",
+        "name": "กระเทียม",
+        "quantity": 10.0,
+        "reorder_level": 2.0,
+        "supplier_id": 2,
+        "unit": "กิโลกรัม"
+    },
+    {
+        "id": 103,
+        "last_updated": "2024-12-05",
+        "name": "หอมแดง",
+        "quantity": 10.0,
+        "reorder_level": 2.0,
+        "supplier_id": 2,
+        "unit": "กิโลกรัม"
+    },
+    {
+        "id": 104,
+        "last_updated": "2024-12-05",
+        "name": "หอมใหญ่",
+        "quantity": 10.0,
+        "reorder_level": 2.0,
+        "supplier_id": 2,
+        "unit": "กิโลกรัม"
+    },
+    {
+        "id": 105,
+        "last_updated": "2024-12-05",
+        "name": "แครอท",
+        "quantity": 10.0,
+        "reorder_level": 2.0,
+        "supplier_id": 2,
+        "unit": "กิโลกรัม"
+    },
+    {
+        "id": 106,
+        "last_updated": "2024-12-05",
+        "name": "แตงกวา",
+        "quantity": 5.0,
+        "reorder_level": 1.0,
+        "supplier_id": 2,
+        "unit": "กิโลกรัม"
+    },
+    {
+        "id": 107,
+        "last_updated": "2024-12-05",
+        "name": "เห็ด",
+        "quantity": 5.0,
+        "reorder_level": 1.0,
+        "supplier_id": 2,
+        "unit": "กิโลกรัม"
+    },
+    {
+        "id": 108,
+        "last_updated": "2024-12-05",
+        "name": "ฟัก",
+        "quantity": 5.0,
+        "reorder_level": 1.0,
+        "supplier_id": 2,
+        "unit": "กิโลกรัม"
+    },
+    {
+        "id": 109,
+        "last_updated": "2024-12-05",
+        "name": "มะม่วงสุก",
+        "quantity": 100.0,
+        "reorder_level": 10.0,
+        "supplier_id": 2,
+        "unit": "ลูก"
+    },
+    {
+        "id": 110,
+        "last_updated": "2024-12-05",
+        "name": "ข้าวสาร",
+        "quantity": 100.0,
+        "reorder_level": 50.0,
+        "supplier_id": 1,
+        "unit": "กิโลกรัม"
+    },
+    {
+        "id": 111,
+        "last_updated": "2024-12-05",
+        "name": "ข้าวเหนียว",
+        "quantity": 50.0,
+        "reorder_level": 30.0,
+        "supplier_id": 1,
+        "unit": "กิโลกรัม"
+    },
+    {
+        "id": 112,
+        "last_updated": "2024-12-05",
+        "name": "เส้นใหญ่",
+        "quantity": 20.0,
+        "reorder_level": 2.0,
+        "supplier_id": 1,
+        "unit": "กิโลกรัม"
+    },
+    {
+        "id": 113,
+        "last_updated": "2024-12-05",
+        "name": "น้ำขวด",
+        "quantity": 100.0,
+        "reorder_level": 10.0,
+        "supplier_id": 1,
+        "unit": "แพ็ค"
+    },
+    {
+        "id": 114,
+        "last_updated": "2024-12-05",
+        "name": "ผงชาเย็น",
+        "quantity": 10.0,
+        "reorder_level": 2.0,
+        "supplier_id": 5,
+        "unit": "ลัง"
+    },
+    {
+        "id": 115,
+        "last_updated": "2024-12-05",
+        "name": "ผงกาแฟเย็น",
+        "quantity": 10.0,
+        "reorder_level": 2.0,
+        "supplier_id": 5,
+        "unit": "ลัง"
+    },
+    {
+        "id": 116,
+        "last_updated": "2024-12-05",
+        "name": "น้ำส้ม",
+        "quantity": 50.0,
+        "reorder_level": 5.0,
+        "supplier_id": 5,
+        "unit": "แพ็ค"
+    },
+    {
+        "id": 117,
+        "last_updated": "2024-12-05",
+        "name": "น้ำแดง",
+        "quantity": 50.0,
+        "reorder_level": 5.0,
+        "supplier_id": 5,
+        "unit": "แพ็ค"
+    },
+    {
+        "id": 118,
+        "last_updated": "2024-12-05",
+        "name": "ใบเตย",
+        "quantity": 5.0,
+        "reorder_level": 1.0,
+        "supplier_id": 2,
+        "unit": "กิโลกรัม"
+    },
+    {
+        "id": 119,
+        "last_updated": "2024-12-05",
+        "name": "มะพร้าว",
+        "quantity": 50.0,
+        "reorder_level": 5.0,
+        "supplier_id": 2,
+        "unit": "ลูก"
+    },
+    {
+        "id": 120,
+        "last_updated": "2024-12-05",
+        "name": "นมสด",
+        "quantity": 10.0,
+        "reorder_level": 2.0,
+        "supplier_id": 5,
+        "unit": "แกลลอน"
+    },
+    {
+        "id": 121,
+        "last_updated": "2024-12-05",
+        "name": "นมข้นหวาน",
+        "quantity": 3.0,
+        "reorder_level": 1.0,
+        "supplier_id": 5,
+        "unit": "ลัง"
+    },
+    {
+        "id": 122,
+        "last_updated": "2024-12-05",
+        "name": "ลูกชิ้นหมู",
+        "quantity": 50.0,
+        "reorder_level": 5.0,
+        "supplier_id": 1,
+        "unit": "ถุง"
+    },
+    {
+        "id": 123,
+        "last_updated": "2024-12-05",
+        "name": "ปอเปี๊ยะทอด",
+        "quantity": 50.0,
+        "reorder_level": 5.0,
+        "supplier_id": 1,
+        "unit": "ถุง"
+    },
+    {
+        "id": 124,
+        "last_updated": "2024-12-05",
+        "name": "เก้ี๊ยวทอด",
+        "quantity": 50.0,
+        "reorder_level": 5.0,
+        "supplier_id": 1,
+        "unit": "ถุง"
+    },
+    {
+        "id": 125,
+        "last_updated": "2024-12-05",
+        "name": "ไข่",
+        "quantity": 50.0,
+        "reorder_level": 5.0,
+        "supplier_id": 2,
+        "unit": "แผง"
+    },
+    {
+        "id": 126,
+        "last_updated": "2024-12-05",
+        "name": "ผงปรุงรสหมูกรอบ",
+        "quantity": 10.0,
+        "reorder_level": 2.0,
+        "supplier_id": 4,
+        "unit": "ลัง"
+    },
+    {
+        "id": 127,
+        "last_updated": "2024-12-05",
+        "name": "น้ำแข็ง",
+        "quantity": 100.0,
+        "reorder_level": 10.0,
+        "supplier_id": 1,
+        "unit": "กิโลกรัม"
+    }
+]

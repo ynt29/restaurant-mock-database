@@ -1,0 +1,189 @@
+[
+    {
+        "email": "somchai.manager@happyres.com",
+        "first_name": "Somchai",
+        "hire_date": "2023-01-15",
+        "id": 1,
+        "last_name": "Karnjanajai",
+        "phone_number": "0812345678",
+        "position": "Manager",
+        "salary": 40000.0,
+        "status": "Active"
+    },
+    {
+        "email": "prasit.assistmanager@happyres.com",
+        "first_name": "Prasit",
+        "hire_date": "2023-03-20",
+        "id": 2,
+        "last_name": "Chaisuk",
+        "phone_number": "0898765432",
+        "position": "Assistant Manager",
+        "salary": 30000.0,
+        "status": "Active"
+    },
+    {
+        "email": "jiranan.headchef@happyres.com",
+        "first_name": "Jiranan",
+        "hire_date": "2023-02-01",
+        "id": 3,
+        "last_name": "Saengdao",
+        "phone_number": "0893456789",
+        "position": "Head Chef",
+        "salary": 35000.0,
+        "status": "Active"
+    },
+    {
+        "email": "thanakorn.linecook1@happyres.com",
+        "first_name": "Thanakorn",
+        "hire_date": "2023-06-01",
+        "id": 4,
+        "last_name": "Chaiyo",
+        "phone_number": "0831234567",
+        "position": "Line Cook",
+        "salary": 18000.0,
+        "status": "Active"
+    },
+    {
+        "email": "preecha.linecook2@happyres.com",
+        "first_name": "Preecha",
+        "hire_date": "2023-09-15",
+        "id": 5,
+        "last_name": "Suchart",
+        "phone_number": "0824567890",
+        "position": "Line Cook",
+        "salary": 18000.0,
+        "status": "Active"
+    },
+    {
+        "email": "ratchanon.linecook3@happyres.com",
+        "first_name": "Ratchanon",
+        "hire_date": "2023-12-01",
+        "id": 6,
+        "last_name": "Kumthorn",
+        "phone_number": "0817890123",
+        "position": "Line Cook",
+        "salary": 18000.0,
+        "status": "Active"
+    },
+    {
+        "email": "wanida.linecook4@happyres.com",
+        "first_name": "Wanida",
+        "hire_date": "2024-03-10",
+        "id": 7,
+        "last_name": "Yingrak",
+        "phone_number": "0805678901",
+        "position": "Line Cook",
+        "salary": 18000.0,
+        "status": "Active"
+    },
+    {
+        "email": "anan.prepcook1@happyres.com",
+        "first_name": "Anan",
+        "hire_date": "2023-08-01",
+        "id": 8,
+        "last_name": "Rakthai",
+        "phone_number": "0852345678",
+        "position": "Prep Cook",
+        "salary": 15000.0,
+        "status": "Active"
+    },
+    {
+        "email": "nida.prepcook2@happyres.com",
+        "first_name": "Nida",
+        "hire_date": "2024-01-05",
+        "id": 9,
+        "last_name": "Supaporn",
+        "phone_number": "0843456789",
+        "position": "Prep Cook",
+        "salary": 15000.0,
+        "status": "Active"
+    },
+    {
+        "email": "niran.dishwasher1@happyres.com",
+        "first_name": "Niran",
+        "hire_date": "2023-05-10",
+        "id": 10,
+        "last_name": "Somboon",
+        "phone_number": "0881234567",
+        "position": "Dishwasher",
+        "salary": 12000.0,
+        "status": "Active"
+    },
+    {
+        "email": "warin.dishwasher2@happyres.com",
+        "first_name": "Warin",
+        "hire_date": "2024-02-15",
+        "id": 11,
+        "last_name": "Detsakul",
+        "phone_number": "0869876543",
+        "position": "Dishwasher",
+        "salary": 12000.0,
+        "status": "Active"
+    },
+    {
+        "email": "patcharaporn.cashier@happyres.com",
+        "first_name": "Patcharaporn",
+        "hire_date": "2023-07-10",
+        "id": 12,
+        "last_name": "Meesuk",
+        "phone_number": "0871234567",
+        "position": "Cashier",
+        "salary": 17000.0,
+        "status": "Active"
+    },
+    {
+        "email": "kittipong.server1@happyres.com",
+        "first_name": "Kittipong",
+        "hire_date": "2023-04-01",
+        "id": 13,
+        "last_name": "Suksai",
+        "phone_number": "0862345678",
+        "position": "Server",
+        "salary": 12000.0,
+        "status": "Active"
+    },
+    {
+        "email": "napaporn.server2@happyres.com",
+        "first_name": "Napaporn",
+        "hire_date": "2023-05-20",
+        "id": 14,
+        "last_name": "Chaisiri",
+        "phone_number": "0859876543",
+        "position": "Server",
+        "salary": 12000.0,
+        "status": "Active"
+    },
+    {
+        "email": "wanchai.server3@happyres.com",
+        "first_name": "Wanchai",
+        "hire_date": "2023-06-15",
+        "id": 15,
+        "last_name": "Yodrak",
+        "phone_number": "0848765432",
+        "position": "Server",
+        "salary": 12000.0,
+        "status": "Active"
+    },
+    {
+        "email": "karnchanok.server4@happyres.com",
+        "first_name": "Karnchanok",
+        "hire_date": "2023-10-01",
+        "id": 16,
+        "last_name": "Ladda",
+        "phone_number": "0837654321",
+        "position": "Server",
+        "salary": 12000.0,
+        "status": "Active"
+    },
+    {
+        "email": "somphong.server5@happyres.com",
+        "first_name": "Somphong",
+        "hire_date": "2024-01-20",
+        "id": 17,
+        "last_name": "Jaidee",
+        "phone_number": "0826543210",
+        "position": "Server",
+        "salary": 12000.0,
+        "status": "Active"
+    }
+]

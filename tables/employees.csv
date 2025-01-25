@@ -1,0 +1,18 @@
+id,first_name,last_name,position,salary,hire_date,phone_number,email,status
+1,Somchai,Karnjanajai,Manager,40000.0,2023-01-15,0812345678,somchai.manager@happyres.com,Active
+2,Prasit,Chaisuk,Assistant Manager,30000.0,2023-03-20,0898765432,prasit.assistmanager@happyres.com,Active
+3,Jiranan,Saengdao,Head Chef,35000.0,2023-02-01,0893456789,jiranan.headchef@happyres.com,Active
+4,Thanakorn,Chaiyo,Line Cook,18000.0,2023-06-01,0831234567,thanakorn.linecook1@happyres.com,Active
+5,Preecha,Suchart,Line Cook,18000.0,2023-09-15,0824567890,preecha.linecook2@happyres.com,Active
+6,Ratchanon,Kumthorn,Line Cook,18000.0,2023-12-01,0817890123,ratchanon.linecook3@happyres.com,Active
+7,Wanida,Yingrak,Line Cook,18000.0,2024-03-10,0805678901,wanida.linecook4@happyres.com,Active
+8,Anan,Rakthai,Prep Cook,15000.0,2023-08-01,0852345678,anan.prepcook1@happyres.com,Active
+9,Nida,Supaporn,Prep Cook,15000.0,2024-01-05,0843456789,nida.prepcook2@happyres.com,Active
+10,Niran,Somboon,Dishwasher,12000.0,2023-05-10,0881234567,niran.dishwasher1@happyres.com,Active
+11,Warin,Detsakul,Dishwasher,12000.0,2024-02-15,0869876543,warin.dishwasher2@happyres.com,Active
+12,Patcharaporn,Meesuk,Cashier,17000.0,2023-07-10,0871234567,patcharaporn.cashier@happyres.com,Active
+13,Kittipong,Suksai,Server,12000.0,2023-04-01,0862345678,kittipong.server1@happyres.com,Active
+14,Napaporn,Chaisiri,Server,12000.0,2023-05-20,0859876543,napaporn.server2@happyres.com,Active
+15,Wanchai,Yodrak,Server,12000.0,2023-06-15,0848765432,wanchai.server3@happyres.com,Active
+16,Karnchanok,Ladda,Server,12000.0,2023-10-01,0837654321,karnchanok.server4@happyres.com,Active
+17,Somphong,Jaidee,Server,12000.0,2024-01-20,0826543210,somphong.server5@happyres.com,Active

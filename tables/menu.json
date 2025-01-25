@@ -1,0 +1,530 @@
+[
+    {
+        "category": "Appetizer",
+        "description": "เนื้อไก่หมักเครื่องเทศย่าง เสิร์ฟพร้อมน้ำจิ้มถั่วและอาจาด",
+        "id": 1,
+        "name": "ไก่สะเต๊ะ",
+        "price": 60.0,
+        "status": "Inactive"
+    },
+    {
+        "category": "Appetizer",
+        "description": "หมูหมักเครื่องเทศย่าง เสิร์ฟพร้อมน้ำจิ้มถั่ว",
+        "id": 2,
+        "name": "หมูสะเต๊ะ",
+        "price": 60.0,
+        "status": "Inactive"
+    },
+    {
+        "category": "Appetizer",
+        "description": "ลาบหมูปรุงรสกลมกล่อม โรยข้าวคั่วและพริกแห้ง",
+        "id": 3,
+        "name": "ลาบหมู",
+        "price": 65.0,
+        "status": "Inactive"
+    },
+    {
+        "category": "Appetizer",
+        "description": "ทอดมันกุ้งเนื้อแน่น ทอดจนกรอบนอกนุ่มใน",
+        "id": 4,
+        "name": "ทอดมันกุ้ง",
+        "price": 80.0,
+        "status": "Active"
+    },
+    {
+        "category": "Appetizer",
+        "description": "ลูกชิ้นหมูปิ้ง เสิร์ฟพร้อมน้ำจิ้มสูตรพิเศษ",
+        "id": 5,
+        "name": "ลูกชิ้นหมูปิ้ง",
+        "price": 40.0,
+        "status": "Active"
+    },
+    {
+        "category": "Appetizer",
+        "description": "แหนมเนืองสูตรเวียดนาม เสิร์ฟพร้อมแป้งและผักสด",
+        "id": 6,
+        "name": "แหนมเนือง",
+        "price": 90.0,
+        "status": "Inactive"
+    },
+    {
+        "category": "Appetizer",
+        "description": "ปอเปี๊ยะทอดกรอบไส้ผักและวุ้นเส้น เสิร์ฟพร้อมน้ำจิ้มหวาน",
+        "id": 7,
+        "name": "ปอเปี๊ยะทอด",
+        "price": 60.0,
+        "status": "Active"
+    },
+    {
+        "category": "Appetizer",
+        "description": "ไข่ดาวทอดกรอบราดน้ำยำรสจัด",
+        "id": 8,
+        "name": "ยำไข่ดาว",
+        "price": 65.0,
+        "status": "Active"
+    },
+    {
+        "category": "Appetizer",
+        "description": "ส้มตำไทยรสจัดจ้าน พร้อมกุ้งแห้งและถั่วลิสง",
+        "id": 9,
+        "name": "ส้มตำไทย",
+        "price": 55.0,
+        "status": "Inactive"
+    },
+    {
+        "category": "Appetizer",
+        "description": "ส้มตำปูปลาร้า แซ่บถึงใจ",
+        "id": 10,
+        "name": "ส้มตำปูปลาร้า",
+        "price": 55.0,
+        "status": "Inactive"
+    },
+    {
+        "category": "Appetizer",
+        "description": "ไก่ทอดโรยสมุนไพรไทย เสิร์ฟพร้อมน้ำจิ้มแจ่ว",
+        "id": 11,
+        "name": "ไก่ทอดสมุนไพร",
+        "price": 70.0,
+        "status": "Active"
+    },
+    {
+        "category": "Appetizer",
+        "description": "หมูยอคลุกเคล้ากับน้ำยำสูตรพิเศษ",
+        "id": 12,
+        "name": "ยำหมูยอ",
+        "price": 70.0,
+        "status": "Inactive"
+    },
+    {
+        "category": "Appetizer",
+        "description": "เกี๊ยวทอดกรอบ เสิร์ฟพร้อมน้ำจิ้มบ๊วย",
+        "id": 13,
+        "name": "เกี๊ยวทอด",
+        "price": 50.0,
+        "status": "Active"
+    },
+    {
+        "category": "Appetizer",
+        "description": "ปีกไก่ทอดเกลือ เคี้ยวมันกำลังดี",
+        "id": 14,
+        "name": "ปีกไก่ทอดเกลือ",
+        "price": 70.0,
+        "status": "Active"
+    },
+    {
+        "category": "Appetizer",
+        "description": "ทอดมันปลากราย เสิร์ฟพร้อมน้ำจิ้มรสเด็ด",
+        "id": 15,
+        "name": "ทอดมันปลากราย",
+        "price": 80.0,
+        "status": "Inactive"
+    },
+    {
+        "category": "Main Course",
+        "description": "เส้นจันท์ผัดซอสสูตรพิเศษใส่กุ้งสด",
+        "id": 16,
+        "name": "ผัดไทยกุ้งสด",
+        "price": 120.0,
+        "status": "Inactive"
+    },
+    {
+        "category": "Main Course",
+        "description": "ข้าวผัดกะเพราไก่ไข่ดาว",
+        "id": 17,
+        "name": "ข้าวผัดกะเพราไก่",
+        "price": 85.0,
+        "status": "Active"
+    },
+    {
+        "category": "Main Course",
+        "description": "ข้าวผัดปูเนื้อแน่น ปรุงรสอร่อย",
+        "id": 18,
+        "name": "ข้าวผัดปู",
+        "price": 80.0,
+        "status": "Active"
+    },
+    {
+        "category": "Main Course",
+        "description": "ข้าวมันไก่สูตรพิเศษ เสิร์ฟพร้อมน้ำจิ้มเต้าเจี้ยว",
+        "id": 19,
+        "name": "ข้าวมันไก่",
+        "price": 70.0,
+        "status": "Active"
+    },
+    {
+        "category": "Main Course",
+        "description": "ข้าวหมูแดงพร้อมน้ำราดสูตรเข้มข้น",
+        "id": 20,
+        "name": "ข้าวหมูแดง",
+        "price": 75.0,
+        "status": "Active"
+    },
+    {
+        "category": "Main Course",
+        "description": "ข้าวหมูกรอบกับน้ำจิ้มรสเด็ด",
+        "id": 21,
+        "name": "ข้าวหมูกรอบ",
+        "price": 80.0,
+        "status": "Active"
+    },
+    {
+        "category": "Main Course",
+        "description": "เส้นใหญ่ผัดซีอิ๊วกับหมูและไข่",
+        "id": 22,
+        "name": "ผัดซีอิ๊วหมู",
+        "price": 70.0,
+        "status": "Active"
+    },
+    {
+        "category": "Main Course",
+        "description": "ข้าวผัดแกงเขียวหวานไก่ใส่ใบโหระพา",
+        "id": 23,
+        "name": "ข้าวผัดแกงเขียวหวานไก่",
+        "price": 95.0,
+        "status": "Inactive"
+    },
+    {
+        "category": "Main Course",
+        "description": "แกงส้มชะอมไข่กับกุ้ง",
+        "id": 24,
+        "name": "แกงส้มชะอมไข่",
+        "price": 100.0,
+        "status": "Inactive"
+    },
+    {
+        "category": "Main Course",
+        "description": "แกงป่าไก่บ้านรสจัดจ้าน",
+        "id": 25,
+        "name": "แกงป่าไก่บ้าน",
+        "price": 100.0,
+        "status": "Inactive"
+    },
+    {
+        "category": "Main Course",
+        "description": "ข้าวผัดกะเพราหมู",
+        "id": 26,
+        "name": "ข้าวผัดกะเพราหมู",
+        "price": 85.0,
+        "status": "Active"
+    },
+    {
+        "category": "Main Course",
+        "description": "ต้มยำกุ้งสุดแซ่บ มรดกโลกที่จับต้องไม่ได้ของยูเนสโก",
+        "id": 27,
+        "name": "ต้มยำกุ้ง",
+        "price": 100.0,
+        "status": "Active"
+    },
+    {
+        "category": "Main Course",
+        "description": "พะแนงไก่ หอมเครื่องเทศ",
+        "id": 28,
+        "name": "พะแนงไก่",
+        "price": 90.0,
+        "status": "Inactive"
+    },
+    {
+        "category": "Main Course",
+        "description": "มัสมั่นแกงแก้วตา หอมยี่หร่ารสร้อนแรง",
+        "id": 29,
+        "name": "แกงมัสมั่นไก่",
+        "price": 90.0,
+        "status": "Inactive"
+    },
+    {
+        "category": "Main Course",
+        "description": "ข้าวซอยไก่ตำหรับภาคเหนือ กลิ่นหอมถูกใจคนทุกภาค",
+        "id": 30,
+        "name": "ข้าวซอยไก่",
+        "price": 90.0,
+        "status": "Inactive"
+    },
+    {
+        "category": "Main Course",
+        "description": "ข้าวผัดหมูธรรมดา ที่ไม่ธรรมดา",
+        "id": 31,
+        "name": "ข้าวผัดหมู",
+        "price": 70.0,
+        "status": "Active"
+    },
+    {
+        "category": "Main Course",
+        "description": "ข้าวผัดไก่ธรรมดา ที่ไม่ธรรมดา",
+        "id": 32,
+        "name": "ข้าวผัดไก่",
+        "price": 70.0,
+        "status": "Active"
+    },
+    {
+        "category": "Main Course",
+        "description": "ปูผัดผงกะหรี่ กลิ่นหอมเข้มข้น",
+        "id": 33,
+        "name": "ปูผัดผงกะหรี่",
+        "price": 120.0,
+        "status": "Inactive"
+    },
+    {
+        "category": "Main Course",
+        "description": "แกงจืดเต้าหู้หมูสับ อุดมโปรตีนและเส้นใยจากผัก",
+        "id": 34,
+        "name": "แกงจืดเต้าหู้หมูสับ",
+        "price": 60.0,
+        "status": "Inactive"
+    },
+    {
+        "category": "Main Course",
+        "description": "แกงจืดไข่น้ำ อุดมโปรตีนจากไข่",
+        "id": 35,
+        "name": "แกงจืดไข่น้ำ",
+        "price": 60.0,
+        "status": "Inactive"
+    },
+    {
+        "category": "Main Course",
+        "description": "ไข่เจียวหมูสับสุดเบสิก แต่รสชาติไม่เบสิกแน่นอน",
+        "id": 36,
+        "name": "ข้าวไข่เจียวหมูสับ",
+        "price": 70.0,
+        "status": "Active"
+    },
+    {
+        "category": "Main Course",
+        "description": "ไข่เจียวหมูสับสุดเบสิก แต่รสชาติไม่เบสิกแน่นอน",
+        "id": 37,
+        "name": "ข้าวไข่เจียวแหนม",
+        "price": 70.0,
+        "status": "Inactive"
+    },
+    {
+        "category": "Main Course",
+        "description": "ไก่ผัดขิงรสชาติเผ็ดร้อน",
+        "id": 38,
+        "name": "ไก่ผัดขิง",
+        "price": 70.0,
+        "status": "Inactive"
+    },
+    {
+        "category": "Main Course",
+        "description": "คะน้าผัดน้ำมันหอย ผักกรอบอร่อย ฉ่ำน้ำซอส",
+        "id": 39,
+        "name": "คะน้าผัดน้ำมันหอย",
+        "price": 75.0,
+        "status": "Active"
+    },
+    {
+        "category": "Main Course",
+        "description": "ราดหน้าน้ำข้น หอมเตาถ่าน",
+        "id": 40,
+        "name": "ราดหน้าเส้นหมี่หมู",
+        "price": 80.0,
+        "status": "Inactive"
+    },
+    {
+        "category": "Main Course",
+        "description": "ข้าวผัดอเมริกัน ที่ต้นกำเนิดมาจากประเทศไทย",
+        "id": 41,
+        "name": "ข้าวผัดอเมริกัน",
+        "price": 70.0,
+        "status": "Inactive"
+    },
+    {
+        "category": "Main Course",
+        "description": "ข้าวผัดน้ำพริกลงเรือ พร้อมผักสดไม่อั้น",
+        "id": 42,
+        "name": "ข้าวผัดน้ำพริกลงเรือ",
+        "price": 75.0,
+        "status": "Inactive"
+    },
+    {
+        "category": "Main Course",
+        "description": "ข้าวไข่ข้น เมนูยอดฮิตถูกใจวัยรุ่น",
+        "id": 43,
+        "name": "ข้าวไข่ข้นหมู",
+        "price": 70.0,
+        "status": "Inactive"
+    },
+    {
+        "category": "Main Course",
+        "description": "ข้าวไข่ข้น เมนูยอดฮิตถูกใจวัยรุ่น",
+        "id": 44,
+        "name": "ข้าวไข่ข้นไก่",
+        "price": 70.0,
+        "status": "Inactive"
+    },
+    {
+        "category": "Main Course",
+        "description": "ผักบุ้งไฟแดง ที่กินแล้วไฟเขียวติดตลอดเวลา",
+        "id": 45,
+        "name": "ผัดผักบุ้งไฟแดง",
+        "price": 100.0,
+        "status": "Inactive"
+    },
+    {
+        "category": "Main Course",
+        "description": "ข้าวเปล่า",
+        "id": 46,
+        "name": "ข้าวเปล่า",
+        "price": 10.0,
+        "status": "Active"
+    },
+    {
+        "category": "Dessert",
+        "description": "ข้าวเหนียวมูนหวานมันกับมะม่วงสุก",
+        "id": 47,
+        "name": "ข้าวเหนียวมะม่วง",
+        "price": 75.0,
+        "status": "Inactive"
+    },
+    {
+        "category": "Dessert",
+        "description": "บัวลอยเจ้าเพื่อนยาก ทำไมจากข้าเร็วเกินไป",
+        "id": 48,
+        "name": "บัวลอยไข่หวาน",
+        "price": 50.0,
+        "status": "Inactive"
+    },
+    {
+        "category": "Dessert",
+        "description": "ลอดช่องน้ำกะทิหอมหวาน",
+        "id": 49,
+        "name": "ลอดช่องน้ำกะทิ",
+        "price": 50.0,
+        "status": "Inactive"
+    },
+    {
+        "category": "Dessert",
+        "description": "เฉาก๊วยเย็นสดชื่นในนมสด",
+        "id": 50,
+        "name": "เฉาก๊วยนมสด",
+        "price": 50.0,
+        "status": "Inactive"
+    },
+    {
+        "category": "Dessert",
+        "description": "ซ่าหริ่ม ไม่ใช่สลิ่มอย่างที่เขาหลอกลวง",
+        "id": 51,
+        "name": "ซ่าหริ่ม",
+        "price": 50.0,
+        "status": "Inactive"
+    },
+    {
+        "category": "Dessert",
+        "description": "ทับทิมกรอบ สีสันสดใส",
+        "id": 52,
+        "name": "ทับทิมกรอบ",
+        "price": 50.0,
+        "status": "Inactive"
+    },
+    {
+        "category": "Dessert",
+        "description": "เซ็ตผลไม้ อุดมเส้นใยและโพลีฟีนอล",
+        "id": 53,
+        "name": "ผลไม้ตามฤดูกาล",
+        "price": 90.0,
+        "status": "Inactive"
+    },
+    {
+        "category": "Dessert",
+        "description": "สาคูสีแดงสวย กะทิสดหวานมัน",
+        "id": 54,
+        "name": "สาคูมะพร้าวอ่อนกะทิสด",
+        "price": 50.0,
+        "status": "Inactive"
+    },
+    {
+        "category": "Dessert",
+        "description": "ข้าวเหนียวถั่วดำ",
+        "id": 55,
+        "name": "ข้าวเหนียวถั่วดำ",
+        "price": 50.0,
+        "status": "Inactive"
+    },
+    {
+        "category": "Dessert",
+        "description": "เมนูยอดฮิตประจำร้านก๋วยเตี๋ยว",
+        "id": 56,
+        "name": "ขนมถ้วย",
+        "price": 25.0,
+        "status": "Inactive"
+    },
+    {
+        "category": "Beverage",
+        "description": "น้ำดื่มบริสุทธิ์ขวดเล็ก",
+        "id": 57,
+        "name": "น้ำเปล่า",
+        "price": 10.0,
+        "status": "Active"
+    },
+    {
+        "category": "Beverage",
+        "description": "ชาไทยเย็นหอมหวาน",
+        "id": 58,
+        "name": "ชาเย็น",
+        "price": 40.0,
+        "status": "Active"
+    },
+    {
+        "category": "Beverage",
+        "description": "กาแฟเย็นสูตรเข้มข้น",
+        "id": 59,
+        "name": "กาแฟเย็น",
+        "price": 45.0,
+        "status": "Active"
+    },
+    {
+        "category": "Beverage",
+        "description": "โอเป็นคนใจดี",
+        "id": 60,
+        "name": "โอเลี้ยง",
+        "price": 35.0,
+        "status": "Inactive"
+    },
+    {
+        "category": "Beverage",
+        "description": "อุดมความเจริญ",
+        "id": 61,
+        "name": "น้ำส้ม",
+        "price": 35.0,
+        "status": "Active"
+    },
+    {
+        "category": "Beverage",
+        "description": "แนะนำให้กินเอง ไม่ต้องเอาไปไหว้เจ้าที่",
+        "id": 62,
+        "name": "น้ำแดง",
+        "price": 30.0,
+        "status": "Active"
+    },
+    {
+        "category": "Beverage",
+        "description": "เมนูยอดฮิตของวัยสะรุ่น",
+        "id": 63,
+        "name": "ชานมไข่มุก",
+        "price": 45.0,
+        "status": "Inactive"
+    },
+    {
+        "category": "Beverage",
+        "description": "น้ำใบเตย หวานสดชื่น",
+        "id": 64,
+        "name": "น้ำใบเตย",
+        "price": 35.0,
+        "status": "Active"
+    },
+    {
+        "category": "Beverage",
+        "description": "เฉาะสด ๆ จากลูก",
+        "id": 65,
+        "name": "น้ำมะพร้าว",
+        "price": 35.0,
+        "status": "Active"
+    },
+    {
+        "category": "Beverage",
+        "description": "โกโก้ กินเสร็จแล้วก็ gogo!",
+        "id": 66,
+        "name": "โกโก้",
+        "price": 35.0,
+        "status": "Inactive"
+    }
+]

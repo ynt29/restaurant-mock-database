@@ -1,0 +1,56 @@
+[
+    {
+        "address": "123 ถ.สุขุมวิท กรุงเทพฯ",
+        "contact_person": "สมชาย วัฒนธรรม",
+        "email": "somchai@thaifoodsupply.com",
+        "id": 1,
+        "name": "ไทยฟู้ดซัพพลาย",
+        "phone_number": "0812345678",
+        "status": "Active"
+    },
+    {
+        "address": "456 หมู่ 4 ต.ทุ่งสวรรค์ จ.นครราชสีมา",
+        "contact_person": "วิทยา ปัญญาดี",
+        "email": "wittaya@freshfarm99.com",
+        "id": 2,
+        "name": "ฟาร์มสด 99",
+        "phone_number": "0823456789",
+        "status": "Active"
+    },
+    {
+        "address": "789 ถ.บางขุนเทียนชายทะเล กรุงเทพฯ",
+        "contact_person": "อรทัย ธรรมรงค์",
+        "email": "orathai.t@seafoodthai.com",
+        "id": 3,
+        "name": "ซีฟู้ดไทย",
+        "phone_number": "0834567890",
+        "status": "Active"
+    },
+    {
+        "address": "321 ถ.เยาวราช กรุงเทพฯ",
+        "contact_person": "สมบูรณ์ รัตนมงคล",
+        "email": "somboon@soombooncondiment.com",
+        "id": 4,
+        "name": "สมบูรณ์เครื่องปรุง",
+        "phone_number": "0846623456",
+        "status": "Active"
+    },
+    {
+        "address": "442 มหาชัย จ.สมุทรสาคร",
+        "contact_person": "สมยศ เก่งการ",
+        "email": "somyos@mahachaidessert.com",
+        "id": 5,
+        "name": "มหาชัยหวานเย็น",
+        "phone_number": "0899988989",
+        "status": "Active"
+    },
+    {
+        "address": "12/3 อ.เมือง จ.สระบุรี",
+        "contact_person": "ยอดยิ่ง อิ่มบุญ",
+        "email": "yodying@munchymeat.com",
+        "id": 6,
+        "name": "หิวโหยเนื้อสด",
+        "phone_number": "0844288224",
+        "status": "Active"
+    }
+]

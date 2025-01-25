@@ -1,0 +1,42 @@
+[
+    {
+        "name": "employees",
+        "seq": 17
+    },
+    {
+        "name": "suppliers",
+        "seq": 6
+    },
+    {
+        "name": "ingredients",
+        "seq": 127
+    },
+    {
+        "name": "menu",
+        "seq": 66
+    },
+    {
+        "name": "stock_transactions",
+        "seq": 5000
+    },
+    {
+        "name": "restaurant_tables",
+        "seq": 20
+    },
+    {
+        "name": "reservations",
+        "seq": 5000
+    },
+    {
+        "name": "order_details",
+        "seq": 5000
+    },
+    {
+        "name": "orders",
+        "seq": 5000
+    },
+    {
+        "name": "payments",
+        "seq": 5000
+    }
+]
